@@ -2,7 +2,7 @@
 
 A relational database design for managing **PUBG Mobile esports tournaments**. It keeps organizers, tournaments, players, teams, registrations, matches, results and live broadcasts in one organized place.
 
-**Course:** CSE383 – Database Design, Southeast University
+**Course:** CSE384 – Database Design, Southeast University
 **Student:** Istiak Ahamed (ID: 2024100000273)
 **Department:** Computer Science & Engineering (B.Sc. in CSE)
 
